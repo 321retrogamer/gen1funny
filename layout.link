@@ -55,6 +55,11 @@ ROMX $6
 	"Play Time"
 	"Maps 2"
 	"Doors and Ledges"
+	"Battle Engine 3"
+	"Battle Engine 4"
+	"Battle Engine 5"
+	"Battle Engine 6"
+	"Slot Machines"
 ROMX $7
 	"Maps 3"
 	"Pokémon Names"
@@ -70,19 +75,19 @@ ROMX $8
 	"Music 2"
 ROMX $9
 	"Pics 1"
-	"Battle Engine 3"
+;	"Battle Engine 3"
 ROMX $A
 	"Pics 2"
-	"Battle Engine 4"
+;	"Battle Engine 4"
 ROMX $B
 	"Pics 3"
-	"Battle Engine 5"
+;	"Battle Engine 5"
 ROMX $C
 	"Pics 4"
-	"Battle Engine 6"
+;	"Battle Engine 6"
 ROMX $D
 	"Pics 5"
-	"Slot Machines"
+;	"Slot Machines"
 ROMX $E
 	"Battle Engine 7"
 ROMX $F
